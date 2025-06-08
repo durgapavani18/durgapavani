@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Durga Pavani!
+# Hi, I'm Durga Pavani!
 
-🎓 I'm a B.Tech student in Artificial Intelligence and Machine Learning at Dhanekula Institute of Engineering and Technology, affiliated with JNTUK.
+🎓 B.Tech Student | Artificial Intelligence & Machine Learning  
+📍 Dhanekula Institute of Engineering and Technology (Affiliated to JNTUK)  
+
+I am an undergraduate student specializing in Artificial Intelligence and Machine Learning. I am passionate about building intelligent systems, solving real-world problems using data, and continuously improving my technical and analytical skills.
 
 🌱 Currently learning:
 - Python, Java
