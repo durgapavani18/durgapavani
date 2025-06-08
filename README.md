@@ -3,7 +3,7 @@
 🎓 B.Tech Student | Artificial Intelligence & Machine Learning  
 📍 Dhanekula Institute of Engineering and Technology (Affiliated to JNTUK)  
 
-I am an undergraduate student specializing in Artificial Intelligence and Machine Learning. I am passionate about building intelligent systems, solving real-world problems using data, and continuously improving my technical and analytical skills.
+I am Durga Pavani, a passionate and driven undergraduate student specializing in Artificial Intelligence and Machine Learning. I am passionate about building intelligent systems, solving real-world problems using data, and continuously improving my technical and analytical skills. Alongside this, I am actively strengthening my foundation in Data Structures and Algorithms to enhance my problem-solving skills and coding efficiency.
 
 🌱 Currently learning:
 - Python, Java
