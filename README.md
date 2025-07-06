@@ -21,7 +21,7 @@ I am Durga Pavani, a passionate and driven undergraduate student specializing in
 
 📫 How to reach me:
 - 📧 Email: [durgapavani93@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/durgapavanibommareddy]
+- 💼 LinkedIn: [https://www.linkedin.com/in/durgapavani4207]
 
 > “Code, Learn, Build, Repeat.”
 
